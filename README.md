@@ -1,3 +1,5 @@
+## THIS IS NOT MAINTAINED DUE TO DISCORD RELEASING THE BOT. HAVENT TESTED IF IT WORKS SINCE.
+
 <h1 align="center"> 
   <br>
   <a href="https://github.com/sweqtyy/DiscordActivityBot"><img src="https://user-images.githubusercontent.com/58605906/135195801-36181fdc-080b-417e-8f25-497b0b5662dc.gif"></a>
